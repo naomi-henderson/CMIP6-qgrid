@@ -15,9 +15,12 @@ or, for Classic Notebook:
 
 Try it here:
 
-JupyterHub environment at binder.pangeo.io: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master)
+JupyterHub:
+binder.pangeo.io: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master)
+mybinder.org:     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naomi-henderson/CMIP6-qgrid/master?urlpath=lab)
 
 or
 
 Classic Jupyter Notebook at mybinder.org:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naomi-henderson/CMIP6-qgrid/master)
+
