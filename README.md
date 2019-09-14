@@ -1,7 +1,4 @@
-# cmip6-cloud
-Jupyter notebooks demonstrating data exploration in the Pangeo google cloud cmip6 data collection
+# CMIP5-qgrid
+Jupyter notebooks demonstrating the use of qgrid for data exploration in the Pangeo google cloud CMIP6 data collection
 
-in binder.pangeo.io:
-
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/naomi-henderson/cmip6-cloud/master)
-
+We are having a lot of problems using [Qqrid](https://github.com/quantopian/qgrid) on our newer kernels
