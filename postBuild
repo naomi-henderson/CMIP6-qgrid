@@ -1,5 +1,6 @@
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install qgrid
+#!/bin/bash
+
+jupyter labextension install @jupyter-widgets/jupyterlab-manager qgrid
 
 # for classic notebook, use instead:
 jupyter nbextension enable --py --sys-prefix qgrid
