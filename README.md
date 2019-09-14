@@ -9,6 +9,6 @@ the following should work if you are using conda:
 - jupyter labextension install qgrid
 - jupyter labextension install @jupyter-widgets/jupyterlab-manager@1.0
 
-mybinder.org: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naomi-henderson/CMIP6-qgrid/master)
+Try it here:
 
 binder.pangeo.io: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/naomi-henderson/CMIP6-qgrid/master)
