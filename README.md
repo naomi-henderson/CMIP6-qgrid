@@ -6,7 +6,7 @@ We are having a lot of problems using [Qqrid](https://github.com/quantopian/qgri
 Note, to add qgrid to your own JupyterLab/Hub kernel, see `Qgrid` [readthedocs](https://qgrid.readthedocs.io/en/latest/) or
 the following should work if you are using conda:
 - conda install -c conda-forge qgrid
-- jupyter labextension install @jupyter-widgets/jupyterlab-manager@1.0 qgrid
+- jupyter labextension install @jupyter-widgets/jupyterlab-manager qgrid
 
 or, for Classic Notebook:
 - jupyter nbextension enable --py --sys-prefix qgrid
