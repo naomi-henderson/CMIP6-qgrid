@@ -24,7 +24,7 @@ or
 
 Classic Jupyter Notebook at mybinder.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naomi-henderson/CMIP6-qgrid/master)
+- mybinder.org:     [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/naomi-henderson/CMIP6-qgrid/master)
 
 N.B. qgrid does not seem to work with ipywidgets 7.5, so might need to:
 - conda install ipywidgets=7.4.2
