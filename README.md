@@ -2,15 +2,13 @@
 Jupyter notebook demonstrating the use of qgrid for data exploration in the Pangeo google cloud CMIP6 data collection
 
 We are having a lot of problems using [Qqrid](https://github.com/quantopian/qgrid) on our newer kernels
-
-Note, to add qgrid to your own JupyterLab/Hub kernel, see `Qgrid` [readthedocs](https://qgrid.readthedocs.io/en/latest/) or
-the following should work if you are using conda:
-- conda install -c conda-forge qgrid
-- jupyter labextension install @jupyter-widgets/jupyterlab-manager qgrid
-
-or, for Classic Notebook:
-- jupyter nbextension enable --py --sys-prefix qgrid
-- jupyter nbextension enable --py --sys-prefix widgetsnbextension
+- temporary fix, but no solution, see [#261](https://github.com/quantopian/qgrid/issues/261)
+- essentially you must:
+```
+pip install qgrid
+git clone --depth=1 https://github.com/qzchenwl/qgrid qgrid.git
+jupyter labextension install qgrid.git/js/
+```
 
 Try it here:
 
