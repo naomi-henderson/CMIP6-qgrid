@@ -25,7 +25,3 @@ Classic Jupyter Notebook at mybinder.org:
 
 N.B. qgrid does not seem to work with ipywidgets 7.5, so might need to:
 - conda install ipywidgets=7.4.2
-
-If you still have trouble (like on `ocean.pangeo.io`), try the following:
-
-For a much more basic test, go to [basic_test_widget](https://github.com/AaronWatters/basic_test_widget) , follow the development installation and test a basic widget.  This does not work on `ocean.pangeo.io`
